@@ -1,6 +1,6 @@
 ---
 title: "Generic Title"
-author: "Fernando Munoz Mendez"
+author: "Fernando Munoz"
 output:
   html_notebook:
     highlight: default

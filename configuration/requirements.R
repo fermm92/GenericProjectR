@@ -1,4 +1,3 @@
-require(readr)
 require(tictoc)
 require(RJSONIO) #to read json files
 require(openxlsx) #To open excel files
